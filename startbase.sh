@@ -8,5 +8,5 @@ chmod +x /bin/whatsmyip /bin/rootme
 yum install epel-release vim -y
 yum install htop net-tools mlocate gcc wget  -y
 yum update -y
-Updatedb
+updatedb
 
